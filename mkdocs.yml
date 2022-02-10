@@ -63,12 +63,12 @@ theme:
   favicon: assets/logo.png
   logo: assets/logo.png
   features:
-    navigation.top: true
-    navigation.tabs: true
-    navigation.tabs.sticky: true
-    navigation.tracking: true
-    search.suggest: true
-    search.highlight: true
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
 
 # Extensions
 markdown_extensions:
