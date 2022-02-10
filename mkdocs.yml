@@ -24,16 +24,15 @@ extra:
     - icon: fontawesome/solid/globe-americas
       link: https://moonstar-x.dev
       name: moonstar-x's Website
+    - icon: fontawesome/solid/coffee
+      link: https://ko-fi.com/moonstar_x
+      name: Buy moonstar-x a coffee
   analytics:
     provider: google
     property: G-TBGX3DR6K2
 
 # Copyright
 copyright: Copyright &copy; 2022 moonstar-x
-
-# Navigation
-nav:
-  - Home: index.md
 
 # Theme Customization
 theme:
@@ -47,7 +46,7 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: light-blue
+      primary: light blue
       accent: indigo
       media: "(prefers-color-scheme: dark)"
       toggle:
@@ -92,3 +91,7 @@ plugins:
       minify_html: true
   - git-revision-date-localized:
       type: date
+
+# Navigation
+nav:
+  - Home: index.md
