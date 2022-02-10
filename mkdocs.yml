@@ -1,0 +1,94 @@
+# Site Information
+site_name: Text-to-Speech for Discord
+site_description: Documentation site for moonstar-x/discord-tts-bot.
+site_author: moonstar-x
+site_url: https://docs.moonstar-x.dev/discord-tts-bot/
+
+# Repo
+repo_name: moonstar-x/discord-tts-bot
+repo_url: https://github.com/moonstar-x/discord-tts-bot
+edit_uri: ''
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/moonstar-x
+      name: moonstar-x's GitHub Profile
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/moonstar_x99
+      name: moonstar-x on Twitter
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/mhj3Zsv
+      name: moonstar-x's Discord Server
+    - icon: fontawesome/solid/globe-americas
+      link: https://moonstar-x.dev
+      name: moonstar-x's Website
+  analytics:
+    provider: google
+    property: G-TBGX3DR6K2
+
+# Copyright
+copyright: Copyright &copy; 2022 moonstar-x
+
+# Navigation
+nav:
+  - Home: index.md
+
+# Theme Customization
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: light blue
+      accent: indigo
+      media: "(prefers-color-scheme: light)"
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: light-blue
+      accent: indigo
+      media: "(prefers-color-scheme: dark)"
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/git-alt
+  language: en
+  direction: ltr
+  favicon: assets/logo.png
+  logo: assets/logo.png
+  features:
+    navigation.top: true
+    navigation.tabs: true
+    navigation.tabs.sticky: true
+    navigation.tracking: true
+    search.suggest: true
+    search.highlight: true
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.mark
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - pymdownx.betterem
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      type: date
