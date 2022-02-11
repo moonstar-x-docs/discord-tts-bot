@@ -96,7 +96,22 @@ plugins:
 # Navigation
 nav:
   - Home: index.md
-  - Installation: installation/index.md
-  - Updating: updating/index.md
+  - Installation:
+    - Introduction: installation/index.md
+    - Setting Up: installation/setting-up.md
+    - Node (Normal): installation/node-normal.md
+    - Docker: installation/docker.md
+    - Repl.it: installation/replit.md
+    - Heroku: installation/heroku.md
+  - Updating:
+    - Introduction: updating/index.md
+    - Node (Normal): updating/node-normal.md
+    - Docker: updating/docker.md
+    - Repl.it: updating/replit.md
+    - Heroku: updating/heroku.md
   - Commands: commands/index.md
-  - Development: development/index.md
+  - Development:
+    - Introduction: development/index.md
+    - Setting Up: development/setting-up.md
+    - Creating a Provider: development/creating-a-provider.md
+
