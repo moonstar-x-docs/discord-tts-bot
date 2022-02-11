@@ -43,14 +43,14 @@ theme:
       accent: indigo
       media: "(prefers-color-scheme: light)"
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to dark mode
     - scheme: slate
       primary: light blue
       accent: indigo
       media: "(prefers-color-scheme: dark)"
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode
   font:
     text: Roboto
