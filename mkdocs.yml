@@ -72,6 +72,7 @@ theme:
 # Extensions
 markdown_extensions:
   - admonition
+  - meta
   - toc:
       permalink: true
   - pymdownx.emoji:
@@ -95,3 +96,7 @@ plugins:
 # Navigation
 nav:
   - Home: index.md
+  - Installation: installation/index.md
+  - Updating: updating/index.md
+  - Commands: commands/index.md
+  - Development: development/index.md
