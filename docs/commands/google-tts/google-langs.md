@@ -2,9 +2,9 @@
 
 ## 📖 Description
 
-Display a list of the languages supported by the `Google Translate Provider`.
+Display a list of the languages supported by the [Google Translate Provider](../../text-to-speech-providers/google-translate.md).
 
-You can use [/google_set_my](../google-tts/google-set-my.md) to change the language to be used by the `Google Translate Provider` for yourself. To change the language to be used by default on the server (for people who have not set their own settings before), use [/google_set_default](../google-tts/google-set-default.md).
+You can use [/google_set_my](../google-tts/google-set-my.md) to change the language to be used by the [Google Translate Provider](../../text-to-speech-providers/google-translate.md) for yourself. To change the language to be used by default on the server (for people who have not set their own settings before), use [/google_set_default](../google-tts/google-set-default.md).
 
 ## ❓ Can Be Used By
 

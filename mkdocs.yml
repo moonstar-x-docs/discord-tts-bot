@@ -139,9 +139,11 @@ nav:
         - /channel_settings: commands/channel-tts/config/channel-settings.md
         - /set_channel_provider: commands/channel-tts/config/set-channel-provider.md
         - /delete_channel_provider: commands/channel-tts/config/delete-channel-provider.md
-
+  - Text-to-Speech Providers:
+    - Introduction: text-to-speech-providers/index.md
+    - Google Translate Provider: text-to-speech-providers/google-translate.md
+    - Aeiou Provider: text-to-speech-providers/aeiou.md
   - Development:
     - Introduction: development/index.md
     - Setting Up: development/setting-up.md
     - Creating a Provider: development/creating-a-provider.md
-

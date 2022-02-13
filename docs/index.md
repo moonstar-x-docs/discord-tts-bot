@@ -22,7 +22,7 @@ hide:
 
 </center>
 
-## About
+## ❓ About
 
 [discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot) is a simple Text-to-Speech bot for Discord with support for multiple languages and Text-to-Speech engines.
 
@@ -36,70 +36,14 @@ It is better to use this bot instead of the built-in `/tts` command on Discord b
 
 This serves as a way to make sure your TTS message is heard by everyone in the way YOU want.
 
-## Features
+## 💪🏻 Features
 
-* Supports 46 different languages through the `Google Translate Provider`.
-* Supports DECTalk (Moonbase Alpha), a voice that sounds similar to how [Stephen Hawking sounded](https://www.youtube.com/watch?v=b-2GV0T5Zpc) through the `Aeiou Provider`.
+* Supports 46 different languages through the [Google Translate Provider](./text-to-speech-providers/google-translate.md).
+* Supports DECTalk (Moonbase Alpha), a voice that sounds similar to how [Stephen Hawking sounded](https://www.youtube.com/watch?v=b-2GV0T5Zpc) through the [Aeiou Provider](./text-to-speech-providers/aeiou.md).
 * Saves the settings for each user so that everyone can have *their own voice* when running the same `/say` command.
 * The bot is localized to English, Spanish and French. You can set the preferred language for the bot to use with the `/set_locale` command.
 * Supports the definition of *TTS Channels* which will make the bot read out loud any message being sent to the specified *TTS Channel* without the need of using the `/say` command to streamline the usage process.
 
-## Wanna Try it?
+## 🤔 Wanna Try it?
 
 [![Invite this bot to your server](https://i.imgur.com/4krikIF.jpg)](https://discord.com/api/oauth2/authorize?client_id=519207945318170654&permissions=3148800&scope=bot%20applications.commands)
-
-## Language Support
-
-This bot supports multiple languages offered by the following Text-to-Speech engines.
-
-### Google Translate Provider
-
-The `Google Translate Provider` offers support for the following languages:
-
-* Afrikaans
-* Arabic
-* Armenian
-* Bengali
-* Catalan
-* Chinese
-* Croatian
-* Czech
-* Danish
-* Dutch
-* English
-* Filipino
-* Finnish
-* French
-* German
-* Greek
-* Hindi
-* Hungarian
-* Icelandic
-* Indonesian
-* Italian
-* Japanese
-* Javanese
-* Khmer
-* Korean
-* Latvian
-* Malayalam
-* Marathi
-* Nepali
-* Norwegian
-* Polish
-* Portuguese
-* Romanian
-* Russian
-* Serbian
-* Sinhala
-* Slovak
-* Spanish
-* Sundanese
-* Swahili
-* Swedish
-* Tamil
-* Telugu
-* Thai
-* Turkish
-* Ukranian
-* Vietnamese
