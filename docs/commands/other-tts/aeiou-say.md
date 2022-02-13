@@ -2,7 +2,7 @@
 
 ## 📖 Description
 
-Send a Text-to-Speech message in your voice channel using the `Aeiou Provider`.
+Send a Text-to-Speech message in your voice channel using the [Aeiou Provider](../../text-to-speech-providers/aeiou.md).
 
 If you insert a mention to a user, channel or role, the bot will read-out the name of the mentioned entity. Also, when using a custom emoji, the bot will read its name.
 

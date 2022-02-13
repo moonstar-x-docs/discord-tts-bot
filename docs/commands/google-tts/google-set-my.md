@@ -16,7 +16,7 @@ Can be used by anyone in the server.
 
 Running this command requires the following parameters:
 
-* `<value>` - **Required**: The language code to set for your `Google Translate Provider` settings.
+* `<value>` - **Required**: The language code to set for your [Google Translate Provider](../../text-to-speech-providers/google-translate.md) settings.
 
 ### 🎈 Usage
 
@@ -36,7 +36,7 @@ For example:
 
 Running this command requires the following parameters:
 
-* `<value>` - **Required**: The speed to use for your `Google Translate Provider` settings. You can choose any of the suggested values when running the command.
+* `<value>` - **Required**: The speed to use for your [Google Translate Provider](../../text-to-speech-providers/google-translate.md) settings. You can choose any of the suggested values when running the command.
 
 ### 🎈 Usage
 
@@ -57,4 +57,4 @@ Some extra information to take into account:
 * [x] Can only be run from a server.
 * [ ] Can only be run from a NSFW channel.
 * [x] Saves data from the user.
-    - [x] Saves the settings for the `Google Translate Provider` for the user.
+    - [x] Saves the settings for the [Google Translate Provider](../../text-to-speech-providers/google-translate.md) for the user.
