@@ -43,14 +43,14 @@ theme:
       accent: indigo
       media: "(prefers-color-scheme: light)"
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to dark mode
     - scheme: slate
       primary: light blue
       accent: indigo
       media: "(prefers-color-scheme: dark)"
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode
   font:
     text: Roboto
@@ -64,14 +64,15 @@ theme:
   features:
     - navigation.top
     - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.tracking
+    - navigation.expand
     - search.suggest
     - search.highlight
 
 # Extensions
 markdown_extensions:
   - admonition
+  - meta
   - toc:
       permalink: true
   - pymdownx.emoji:
@@ -79,7 +80,8 @@ markdown_extensions:
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.mark
   - pymdownx.tabbed
-  - pymdownx.tasklist
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.betterem
   - pymdownx.highlight
   - pymdownx.superfences
@@ -95,3 +97,51 @@ plugins:
 # Navigation
 nav:
   - Home: index.md
+  - Installation:
+    - Introduction: installation/index.md
+    - Setting Up: installation/setting-up.md
+    - Node (Normal): installation/node-normal.md
+    - Docker: installation/docker.md
+    - Repl.it: installation/replit.md
+    - Heroku: installation/heroku.md
+  - Updating:
+    - Introduction: updating/index.md
+    - Node (Normal): updating/node-normal.md
+    - Docker: updating/docker.md
+    - Repl.it: updating/replit.md
+    - Heroku: updating/heroku.md
+  - Commands:
+    - Introduction: commands/index.md
+    - All TTS Commands:
+      - /say: commands/all-tts/say.md
+      - /stop: commands/all-tts/stop.md
+    - Google TTS Commands:
+      - /google_say: commands/google-tts/google-say.md
+      - /google_langs: commands/google-tts/google-langs.md
+      - /google_set_default: commands/google-tts/google-set-default.md
+      - /google_set_my: commands/google-tts/google-set-my.md
+    - Other TTS Commands:
+      - /aeiou_say: commands/other-tts/aeiou-say.md
+    - Configuration Commands:
+      - /default_settings: commands/config/default-settings.md
+      - /my_settings: commands/config/my-settings.md
+      - /set_default_provider: commands/config/set-default-provider.md
+      - /set_my_provider: commands/config/set-my-provider.md
+      - /set_locale: commands/config/set-locale.md
+      - /set_timeout: commands/config/set-timeout.md
+    - Miscellaneous Commands:
+      - /help: commands/misc/help.md
+    - Channel TTS Commands:
+      - Some Information: commands/channel-tts/index.md
+      - Google TTS Commands:
+        - /google_set_channel: commands/channel-tts/google-tts/google-set-channel.md
+      - Configuration Commands:
+        - /channel_settings: commands/channel-tts/config/channel-settings.md
+        - /set_channel_provider: commands/channel-tts/config/set-channel-provider.md
+        - /delete_channel_provider: commands/channel-tts/config/delete-channel-provider.md
+
+  - Development:
+    - Introduction: development/index.md
+    - Setting Up: development/setting-up.md
+    - Creating a Provider: development/creating-a-provider.md
+
