@@ -151,6 +151,21 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.moonstar-x.dev/discord-tts-bot/text-to-speech-providers/</loc>
+         <lastmod>2022-02-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.moonstar-x.dev/discord-tts-bot/text-to-speech-providers/aeiou/</loc>
+         <lastmod>2022-02-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.moonstar-x.dev/discord-tts-bot/text-to-speech-providers/google-translate/</loc>
+         <lastmod>2022-02-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/updating/</loc>
          <lastmod>2022-02-13</lastmod>
          <changefreq>daily</changefreq>
