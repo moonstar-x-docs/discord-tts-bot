@@ -18,7 +18,6 @@ hide:
 [![open-issues-count](https://img.shields.io/github/issues-raw/moonstar-x/discord-tts-bot?logo=github)](https://github.com/moonstar-x/discord-tts-bot)
 [![docker-image-size](https://img.shields.io/docker/image-size/moonstarx/discord-tts-bot?logo=docker)](https://hub.docker.com/repository/docker/moonstarx/discord-tts-bot)
 [![docker-pulls](https://img.shields.io/docker/pulls/moonstarx/discord-tts-bot?logo=docker)](https://hub.docker.com/repository/docker/moonstarx/discord-tts-bot)
-[![ko-fi](https://img.shields.io/badge/buy%20me%20a%20coffee-%E2%98%95%20%20-%23ff5f5f)](https://ko-fi.com/moonstar_x)
 
 </center>
 
