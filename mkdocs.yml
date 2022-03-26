@@ -126,6 +126,12 @@ nav:
       - /amazon_voices: commands/amazon-tts/amazon-voices.md
       - /amazon_set_default: commands/amazon-tts/amazon-set-default.md
       - /amazon_set_my: commands/amazon-tts/amazon-set-my.md
+    - Microsoft (TTS Tool) TTS Commands:
+      - /ms_say: commands/ms-tts/ms-say.md
+      - /ms_langs: commands/ms-tts/ms-langs.md
+      - /ms_voices: commands/ms-tts/ms-voices.md
+      - /ms_set_default: commands/ms-tts/ms-set-default.md
+      - /ms_set_my: commands/ms-tts/ms-set-my.md
     - Other TTS Commands:
       - /aeiou_say: commands/other-tts/aeiou-say.md
     - Configuration Commands:
@@ -143,6 +149,8 @@ nav:
         - /google_set_channel: commands/channel-tts/google-tts/google-set-channel.md
       - Amazon (TTS Tool) TTS Commands:
         - /amazon_set_channel: commands/channel-tts/amazon-tts/amazon-set-channel.md
+      - Microsoft (TTS Tool) TTS Commands:
+        - /ms_set_channel: commands/channel-tts/ms-tts/ms-set-channel.md
       - Configuration Commands:
         - /channel_settings: commands/channel-tts/config/channel-settings.md
         - /set_channel_provider: commands/channel-tts/config/set-channel-provider.md
