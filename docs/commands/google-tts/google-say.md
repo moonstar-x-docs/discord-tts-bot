@@ -4,7 +4,7 @@
 
 Send a Text-to-Speech message in your voice channel using the [Google Translate Provider](../../text-to-speech-providers/google-translate.md) with your own settings or the ones saved as default for your server, regardless of what provider you have set as your own.
 
-To configure the settings to be used by the [Google Translate Provider](../../text-to-speech-providers/google-translate.md), use [/google_set_my](../google-tts/google-set-my.md). To change the settings to be used by default on the server (for people who have not set their own settings before), use [/google_set_default](../google-tts/google-set-default.md).
+To configure the settings to be used by the [Google Translate Provider](../../text-to-speech-providers/google-translate.md), use [/google_set_my](./google-set-my.md). To change the settings to be used by default on the server (for people who have not set their own settings before), use [/google_set_default](./google-set-default.md).
 
 If you insert a mention to a user, channel or role, the bot will read-out the name of the mentioned entity. Also, when using a custom emoji, the bot will read its name.
 
