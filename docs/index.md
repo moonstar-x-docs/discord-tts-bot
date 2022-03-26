@@ -39,6 +39,7 @@ This serves as a way to make sure your TTS message is heard by everyone in the w
 
 * Supports 46 different languages through the [Google Translate Provider](./text-to-speech-providers/google-translate.md).
 * Supports DECTalk (Moonbase Alpha), a voice that sounds similar to how [Stephen Hawking sounded](https://www.youtube.com/watch?v=b-2GV0T5Zpc) through the [Aeiou Provider](./text-to-speech-providers/aeiou.md).
+* Supports 45 different voices for 22 different languages through the [Amazon Provider (TTS Tool)](./text-to-speech-providers/amazon-ttstool.md).
 * Saves the settings for each user so that everyone can have *their own voice* when running the same `/say` command.
 * The bot is localized to English, Spanish and French. You can set the preferred language for the bot to use with the `/set_locale` command.
 * Supports the definition of *TTS Channels* which will make the bot read out loud any message being sent to the specified *TTS Channel* without the need of using the `/say` command to streamline the usage process.

@@ -143,6 +143,7 @@ nav:
     - Introduction: text-to-speech-providers/index.md
     - Google Translate Provider: text-to-speech-providers/google-translate.md
     - Aeiou Provider: text-to-speech-providers/aeiou.md
+    - Amazon Provider (TTS Tool): text-to-speech-providers/amazon-ttstool.md
   - Development:
     - Introduction: development/index.md
     - Setting Up: development/setting-up.md
