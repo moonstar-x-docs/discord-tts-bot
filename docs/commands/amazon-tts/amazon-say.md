@@ -1,10 +1,10 @@
-# /google_say
+# /amazon_say
 
 ## 📖 Description
 
-Send a Text-to-Speech message in your voice channel using the [Google Translate Provider](../../text-to-speech-providers/google-translate.md) with your own settings or the ones saved as default for your server, regardless of what provider you have set as your own.
+Send a Text-to-Speech message in your voice channel using the [Amazon Provider (TTS Tool)](../../text-to-speech-providers/amazon-ttstool.md) with your own settings or the ones saved as default for your server, regardless of what provider you have set as your own.
 
-To configure the settings to be used by the [Google Translate Provider](../../text-to-speech-providers/google-translate.md), use [/google_set_my](./google-set-my.md). To change the settings to be used by default on the server (for people who have not set their own settings before), use [/google_set_default](./google-set-default.md).
+To configure the settings to be used by the [Amazon Provider (TTS Tool)](../../text-to-speech-providers/amazon-ttstool.md), use [/amazon_set_my](./amazon-set-my.md). To change the settings to be used by default on the server (for people who have not set their own settings before), use [/amazon_set_default](./amazon-set-default.md).
 
 If you insert a mention to a user, channel or role, the bot will read-out the name of the mentioned entity. Also, when using a custom emoji, the bot will read its name.
 
@@ -25,12 +25,12 @@ Running this command requires the following parameters:
 You can run this command by typing:
 
 ```text
-/google_say <message>
+/amazon_say <message>
 ```
 
 For example:
 
-![google-say-usage](../../assets/screenshots/google-say-usage.png)
+![amazon-say-usage](../../assets/screenshots/amazon-say-usage.png)
 
 ## ℹ️ Other Information
 

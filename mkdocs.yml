@@ -120,6 +120,18 @@ nav:
       - /google_langs: commands/google-tts/google-langs.md
       - /google_set_default: commands/google-tts/google-set-default.md
       - /google_set_my: commands/google-tts/google-set-my.md
+    - Amazon (TTS Tool) TTS Commands:
+      - /amazon_say: commands/amazon-tts/amazon-say.md
+      - /amazon_langs: commands/amazon-tts/amazon-langs.md
+      - /amazon_voices: commands/amazon-tts/amazon-voices.md
+      - /amazon_set_default: commands/amazon-tts/amazon-set-default.md
+      - /amazon_set_my: commands/amazon-tts/amazon-set-my.md
+    - Microsoft (TTS Tool) TTS Commands:
+      - /ms_say: commands/ms-tts/ms-say.md
+      - /ms_langs: commands/ms-tts/ms-langs.md
+      - /ms_voices: commands/ms-tts/ms-voices.md
+      - /ms_set_default: commands/ms-tts/ms-set-default.md
+      - /ms_set_my: commands/ms-tts/ms-set-my.md
     - Other TTS Commands:
       - /aeiou_say: commands/other-tts/aeiou-say.md
     - Configuration Commands:
@@ -135,6 +147,10 @@ nav:
       - Some Information: commands/channel-tts/index.md
       - Google TTS Commands:
         - /google_set_channel: commands/channel-tts/google-tts/google-set-channel.md
+      - Amazon (TTS Tool) TTS Commands:
+        - /amazon_set_channel: commands/channel-tts/amazon-tts/amazon-set-channel.md
+      - Microsoft (TTS Tool) TTS Commands:
+        - /ms_set_channel: commands/channel-tts/ms-tts/ms-set-channel.md
       - Configuration Commands:
         - /channel_settings: commands/channel-tts/config/channel-settings.md
         - /set_channel_provider: commands/channel-tts/config/set-channel-provider.md
@@ -142,6 +158,8 @@ nav:
   - Text-to-Speech Providers:
     - Introduction: text-to-speech-providers/index.md
     - Google Translate Provider: text-to-speech-providers/google-translate.md
+    - Amazon Provider (TTS Tool): text-to-speech-providers/amazon-ttstool.md
+    - Microsoft Provider (TTS Tool): text-to-speech-providers/microsoft-ttstool.md
     - Aeiou Provider: text-to-speech-providers/aeiou.md
   - Development:
     - Introduction: development/index.md
