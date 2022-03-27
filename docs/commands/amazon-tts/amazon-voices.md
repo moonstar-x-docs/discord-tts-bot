@@ -26,7 +26,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![amazon-voices-usage](../../assets/screenshots/amazon-voices-usage.png)
 
 ## ℹ️ Other Information
 

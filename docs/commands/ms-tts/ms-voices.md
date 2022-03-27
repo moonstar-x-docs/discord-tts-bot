@@ -26,7 +26,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![ms-voices-usage](../../assets/screenshots/ms-voices-usage.png)
 
 ## ℹ️ Other Information
 

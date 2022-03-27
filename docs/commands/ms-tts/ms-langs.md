@@ -24,7 +24,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![ms-langs-usage](../../assets/screenshots/ms-langs-usage.png)
 
 ## ℹ️ Other Information
 

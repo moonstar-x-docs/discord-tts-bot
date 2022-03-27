@@ -30,7 +30,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![ms-say-usage](../../assets/screenshots/ms-say-usage.png)
 
 ## ℹ️ Other Information
 

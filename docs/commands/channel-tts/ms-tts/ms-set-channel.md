@@ -32,7 +32,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![ms-set-channel-language-usage](../../../assets/screenshots/ms-set-channel-language-usage.png)
 
 ## 🗣 Subcommand: `voice`
 
@@ -52,7 +52,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![ms-set-channel-voice-usage](../../../assets/screenshots/ms-set-channel-voice-usage.png)
 
 ## 🔊 Subcommand: `volume`
 
@@ -72,7 +72,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![ms-set-channel-volume-usage](../../../assets/screenshots/ms-set-channel-volume-usage.png)
 
 ## 🏃🏻 Subcommand: `rate`
 
@@ -92,7 +92,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![ms-set-channel-rate-usage](../../../assets/screenshots/ms-set-channel-rate-usage.png)
 
 ## 🥁 Subcommand: `pitch`
 
@@ -112,7 +112,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![ms-set-channel-pitch-usage](../../../assets/screenshots/ms-set-channel-pitch-usage.png)
 
 ## ℹ️ Other Information
 

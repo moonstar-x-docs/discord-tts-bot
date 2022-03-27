@@ -28,7 +28,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![amazon-set-my-language-usage](../../assets/screenshots/amazon-set-my-language-usage.png)
 
 ## 🗣 Subcommand: `voice`
 
@@ -48,7 +48,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![amazon-set-my-voice-usage](../../assets/screenshots/amazon-set-my-voice-usage.png)
 
 ## 🔊 Subcommand: `volume`
 
@@ -68,7 +68,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![amazon-set-my-volume-usage](../../assets/screenshots/amazon-set-my-volume-usage.png)
 
 ## 🏃🏻 Subcommand: `rate`
 
@@ -88,7 +88,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![amazon-set-my-rate-usage](../../assets/screenshots/amazon-set-my-rate-usage.png)
 
 ## 🥁 Subcommand: `pitch`
 
@@ -108,7 +108,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![amazon-set-my-pitch-usage](../../assets/screenshots/amazon-set-my-pitch-usage.png)
 
 ## ℹ️ Other Information
 

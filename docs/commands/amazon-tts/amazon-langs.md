@@ -24,7 +24,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![amazon-langs-usage](../../assets/screenshots/amazon-langs-usage.png)
 
 ## ℹ️ Other Information
 

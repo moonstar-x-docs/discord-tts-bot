@@ -28,7 +28,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![ms-set-default-language-usage](../../assets/screenshots/ms-set-default-language-usage.png)
 
 ## 🗣 Subcommand: `voice`
 
@@ -48,7 +48,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![ms-set-default-voice-usage](../../assets/screenshots/ms-set-default-voice-usage.png)
 
 ## 🔊 Subcommand: `volume`
 
@@ -68,7 +68,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![ms-set-default-volume-usage](../../assets/screenshots/ms-set-default-volume-usage.png)
 
 ## 🏃🏻 Subcommand: `rate`
 
@@ -88,7 +88,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![ms-set-default-rate-usage](../../assets/screenshots/ms-set-default-rate-usage.png)
 
 ## 🥁 Subcommand: `pitch`
 
@@ -108,7 +108,7 @@ You can run this command by typing:
 
 For example:
 
-> Screenshot here.
+![ms-set-default-pitch-usage](../../assets/screenshots/ms-set-default-pitch-usage.png)
 
 ## ℹ️ Other Information
 
