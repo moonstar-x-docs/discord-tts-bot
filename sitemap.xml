@@ -2,262 +2,262 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/all-tts/say/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/all-tts/stop/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/amazon-tts/amazon-langs/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/amazon-tts/amazon-say/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/amazon-tts/amazon-set-default/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/amazon-tts/amazon-set-my/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/amazon-tts/amazon-voices/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/channel-tts/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/channel-tts/amazon-tts/amazon-set-channel/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/channel-tts/config/channel-settings/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/channel-tts/config/delete-channel-provider/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/channel-tts/config/set-channel-provider/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/channel-tts/google-tts/google-set-channel/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/channel-tts/ms-tts/ms-set-channel/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/config/default-settings/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/config/my-settings/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/config/set-default-provider/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/config/set-locale/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/config/set-my-provider/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/config/set-timeout/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/google-tts/google-langs/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/google-tts/google-say/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/google-tts/google-set-default/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/google-tts/google-set-my/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/misc/help/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/ms-tts/ms-langs/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/ms-tts/ms-say/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/ms-tts/ms-set-default/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/ms-tts/ms-set-my/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/ms-tts/ms-voices/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/commands/other-tts/aeiou-say/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/development/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/development/creating-a-provider/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/development/setting-up/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/installation/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/installation/docker/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/installation/heroku/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/installation/node-normal/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/installation/replit/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/installation/setting-up/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/text-to-speech-providers/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/text-to-speech-providers/aeiou/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/text-to-speech-providers/amazon-ttstool/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/text-to-speech-providers/google-translate/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/text-to-speech-providers/microsoft-ttstool/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/updating/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/updating/docker/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/updating/heroku/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/updating/node-normal/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.moonstar-x.dev/discord-tts-bot/updating/replit/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
